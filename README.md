@@ -1,1 +1,1 @@
-# A notebook collection for performing different analisys of qualitative data
+# A notebook collection for performing different analysis of qualitative data
